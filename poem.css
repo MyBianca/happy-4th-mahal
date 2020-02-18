@@ -1,0 +1,32 @@
+.wrapper {
+  column-count: 1;
+  column-gap: 40px;
+  padding: 60px;  
+  height: 0px;
+
+}
+
+p {
+  line-height: 1.8; 
+  text-align: justify;
+  margin: 0;
+  font-size: 20px;
+  color: white;
+  
+}
+
+h1{
+
+  color: white;
+  font-family: 'Abhaya Libre', serif;
+  line-height: -1.2;
+}
+
+#currentPage
+{
+    color: #98ff98;
+    pointer-events: none;
+    cursor: default;
+}
+
+
